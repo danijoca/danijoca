@@ -11,5 +11,3 @@ Hi, I’m Daniel Carrasquilla<br><br>I’m a lawyer with experience in document 
 
 ---
 [![](https://komarev.com/ghpvc/?username=danijoca&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
