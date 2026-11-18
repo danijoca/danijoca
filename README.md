@@ -1,5 +1,15 @@
 # 💫 About Me:
-Hi, I’m Daniel Carrasquilla<br><br>I’m a lawyer with experience in document automation and data engineering. I build tools that turn manual workflows and regulatory requirements into processes people can test and improve.<br><br>Projects<br><br>Document workflow automation (RPA) — I built a tool to automate repetitive document tasks. A pilot recorded 540 runs over two months. I’m preparing a public demo with fictional documents.<br><br>Legal document generator — An interactive form that uses rules to generate a legal document. Planned.<br><br>Regulatory reporting pipeline — A Python and SQL demo that transforms synthetic transaction data into a report and checks the results. Planned.<br><br>Tools<br><br>Python · SQL · Apache Spark · HTML and CSS
+Hi, I’m Daniel Carrasquilla<br><br>I’m a lawyer with experience in document automation and data engineering. I build tools that turn manual workflows and regulatory requirements into processes people can test and improve.
+
+## Projects
+
+- **Document workflow automation (RPA)** — I built a tool to automate repetitive document tasks. A pilot recorded 540 runs over two months. I’m preparing a public demo with fictional documents.
+- **Legal document generator** — An interactive form that uses rules to generate a legal document. Planned.
+- **Regulatory reporting pipeline** — A Python and SQL demo that transforms synthetic transaction data into a report and checks the results. Planned.
+
+## Tools
+
+Python · SQL · Apache Spark · HTML and CSS
 
 
 # 💻 Tech Stack:
