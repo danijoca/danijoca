@@ -1,4 +1,3 @@
-[View my portfolio](https://daniel-carrasquilla-portfolio.choice-snow-3289.chatgpt.site)
 
 # 💫 About Me:
 Hi, I’m Daniel Carrasquilla<br><br>I’m a lawyer with experience in document automation and data engineering. I build tools that turn manual workflows and regulatory requirements into processes people can test and improve.
